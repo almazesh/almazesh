@@ -12,10 +12,13 @@
 
 **Front-End**
 
+<br>
+<br>
+
 <div style='display:flex'>
-    <img src='https://lh3.googleusercontent.com/proxy/wwPjnG_3Hu8u7s24KISrVZi70WbhQh1higrD6L0p5Fwn1jI0MFc8AqQhXrCqFwcfGlai5GjUu0LFlnaP8ui2AekjgdflDojWsMj4o_7vMx-LkOiqvJRYGRhgb1Xk2RnDiOQDkamh-m_venE0Gv_EjdAjzzR8QmqAdhXDFJQM6_7-pUil' width='100' />
-    <img src='https://oneteamsolutions.in/blogoneteam/wp-content/uploads/2020/05/REACT-JS-KOCHI.png' width='100' />
-    <img src='https://pica.zhimg.com/v2-b4e23a502e44692d9f3c8b427ac23e01_720w.jpg?source=172ae18b' width='100' />
+    <img src='https://lh3.googleusercontent.com/proxy/wwPjnG_3Hu8u7s24KISrVZi70WbhQh1higrD6L0p5Fwn1jI0MFc8AqQhXrCqFwcfGlai5GjUu0LFlnaP8ui2AekjgdflDojWsMj4o_7vMx-LkOiqvJRYGRhgb1Xk2RnDiOQDkamh-m_venE0Gv_EjdAjzzR8QmqAdhXDFJQM6_7-pUil' width='60' />
+    <img src='https://oneteamsolutions.in/blogoneteam/wp-content/uploads/2020/05/REACT-JS-KOCHI.png' width='60' />
+    <img src='https://pica.zhimg.com/v2-b4e23a502e44692d9f3c8b427ac23e01_720w.jpg?source=172ae18b' width='60' />
     <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--kpVkTsRw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7kj8y4dfyd1aw989edi.png' width='100' />
 </div>
 
