@@ -30,9 +30,11 @@
 **Databases**
 
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png' style='transform:translateY(40px)' width='70'/>
+<div style='display:flex ; align-items:center'>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png' style='transform:translateY(40px)' width='65'/>
 
-<img src='https://cdn.freelogovectors.net/wp-content/uploads/2021/01/graphql-logo-freelogovectors.net_.png' style='transform:translateY(40px)' width='70'/>
+    <img src='https://cdn.freelogovectors.net/wp-content/uploads/2021/01/graphql-logo-freelogovectors.net_.png' style='transform:translateY(40px)' width='60'/>
+</div>
 
 
 **Front-end**
