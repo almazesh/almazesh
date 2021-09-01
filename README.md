@@ -13,9 +13,8 @@
 **Front-End**
 
 <br>
-<br>
 
-<div style='display:flex'>
+<div style='display:flex ; justify-content:space-between'>
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png' width='55'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' width='40'/>
     <img src='https://lh3.googleusercontent.com/proxy/wwPjnG_3Hu8u7s24KISrVZi70WbhQh1higrD6L0p5Fwn1jI0MFc8AqQhXrCqFwcfGlai5GjUu0LFlnaP8ui2AekjgdflDojWsMj4o_7vMx-LkOiqvJRYGRhgb1Xk2RnDiOQDkamh-m_venE0Gv_EjdAjzzR8QmqAdhXDFJQM6_7-pUil' width='60' />
@@ -24,7 +23,6 @@
     <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--kpVkTsRw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7kj8y4dfyd1aw989edi.png' width='100' />
 </div>
 
-<br>
 <br>
 
 
