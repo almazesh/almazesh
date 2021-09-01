@@ -49,11 +49,6 @@
 </div>
 
 
-**Learning**
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
-![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 
 <!--
 **DJWOMS/DJWOMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
