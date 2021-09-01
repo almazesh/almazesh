@@ -35,12 +35,7 @@
    <img src='https://cdn.freelogovectors.net/wp-content/uploads/2021/01/graphql-logo-freelogovectors.net_.png' style='margin-right:50px' width='60'/>
 </div>
 
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap4](https://img.shields.io/badge/-Bootstrap-%231a202c?style=flat-square&logo=bootstrap)
+<br>
 
 **Tools**
 
