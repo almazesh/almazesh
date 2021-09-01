@@ -39,8 +39,9 @@
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+<img src='https://firebase.google.com/images/social.png' width='55'>
+<img src='https://images.squarespace-cdn.com/content/v1/57c649658419c2380d1947be/1530749877859-XD498I2YH1GZ00CUYXQ5/Artboard+1.png?format=1000w' width='55'>
+
 ![Pycharm](https://img.shields.io/badge/-Pycharm-ffce5a?style=flat-square&logo=jetbrains)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
