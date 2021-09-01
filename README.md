@@ -12,7 +12,7 @@
 
 **Front-End**
 
-![Javascript](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Javascript](https://lh3.googleusercontent.com/proxy/wwPjnG_3Hu8u7s24KISrVZi70WbhQh1higrD6L0p5Fwn1jI0MFc8AqQhXrCqFwcfGlai5GjUu0LFlnaP8ui2AekjgdflDojWsMj4o_7vMx-LkOiqvJRYGRhgb1Xk2RnDiOQDkamh-m_venE0Gv_EjdAjzzR8QmqAdhXDFJQM6_7-pUil)
 ![React](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Redux](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![GraphQl](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
